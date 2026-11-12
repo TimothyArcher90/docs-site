@@ -5,6 +5,8 @@
 Run `pocket start` to begin a 25-minute session. Pocket Timer counts down in the terminal and rings
 when the session ends.
 
+If you have not installed Pocket Timer yet, see [how to check your installation](installation.md#check-the-installation).
+
 ## Taking a break
 
 Run `pocket break` for a 5-minute break. Breaks never count toward your [daily goal](configuration.md#daily-goal).
