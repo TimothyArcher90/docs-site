@@ -1,1 +1,2 @@
 # One URL per line. Only a human adds lines here.
+https://docs.pocket-timer.example.com
